@@ -1,0 +1,495 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Previous and Next Button nextPageChildren empty array snapshot 1`] = `
+<div
+  className="ui buttons semantic-ui-react-button-pagination"
+>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="pr"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      &lt;
+    </button>
+  </Button>
+  <Button
+    active={true}
+    as="button"
+    basic={false}
+    className="currentPage"
+    compact={false}
+    disabled={false}
+    inverted={false}
+    key="cr1"
+    negative={false}
+    positive={false}
+    primary={false}
+    secondary={false}
+  >
+    <button
+      className="ui active button currentPage"
+      onClick={[Function]}
+      role="button"
+    >
+      1
+    </button>
+  </Button>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="nx"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    />
+  </Button>
+</div>
+`;
+
+exports[`Previous and Next Button nextPageChildren text snapshot 1`] = `
+<div
+  className="ui buttons semantic-ui-react-button-pagination"
+>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="pr"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      &lt;
+    </button>
+  </Button>
+  <Button
+    active={true}
+    as="button"
+    basic={false}
+    className="currentPage"
+    compact={false}
+    disabled={false}
+    inverted={false}
+    key="cr1"
+    negative={false}
+    positive={false}
+    primary={false}
+    secondary={false}
+  >
+    <button
+      className="ui active button currentPage"
+      onClick={[Function]}
+      role="button"
+    >
+      1
+    </button>
+  </Button>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    content={null}
+    disabled={true}
+    icon={null}
+    inverted={false}
+    key="nx"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Next
+    </button>
+  </Button>
+</div>
+`;
+
+exports[`Previous and Next Button nextPageIcon snapshot 1`] = `
+<div
+  className="ui buttons semantic-ui-react-button-pagination"
+>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="pr"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      &lt;
+    </button>
+  </Button>
+  <Button
+    active={true}
+    as="button"
+    basic={false}
+    className="currentPage"
+    compact={false}
+    disabled={false}
+    inverted={false}
+    key="cr1"
+    negative={false}
+    positive={false}
+    primary={false}
+    secondary={false}
+  >
+    <button
+      className="ui active button currentPage"
+      onClick={[Function]}
+      role="button"
+    >
+      1
+    </button>
+  </Button>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    icon="chevron right"
+    inverted={false}
+    key="nx"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui icon disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      <Icon
+        as="i"
+        key="chevron right"
+        name="chevron right"
+      >
+        <i
+          aria-hidden="true"
+          className="chevron right icon"
+        />
+      </Icon>
+    </button>
+  </Button>
+</div>
+`;
+
+exports[`Previous and Next Button previousPageChildren empty array snapshot 1`] = `
+<div
+  className="ui buttons semantic-ui-react-button-pagination"
+>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="pr"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    />
+  </Button>
+  <Button
+    active={true}
+    as="button"
+    basic={false}
+    className="currentPage"
+    compact={false}
+    disabled={false}
+    inverted={false}
+    key="cr1"
+    negative={false}
+    positive={false}
+    primary={false}
+    secondary={false}
+  >
+    <button
+      className="ui active button currentPage"
+      onClick={[Function]}
+      role="button"
+    >
+      1
+    </button>
+  </Button>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="nx"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      &gt;
+    </button>
+  </Button>
+</div>
+`;
+
+exports[`Previous and Next Button previousPageChildren text snapshot 1`] = `
+<div
+  className="ui buttons semantic-ui-react-button-pagination"
+>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    content={null}
+    disabled={true}
+    icon={null}
+    inverted={false}
+    key="pr"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Prev
+    </button>
+  </Button>
+  <Button
+    active={true}
+    as="button"
+    basic={false}
+    className="currentPage"
+    compact={false}
+    disabled={false}
+    inverted={false}
+    key="cr1"
+    negative={false}
+    positive={false}
+    primary={false}
+    secondary={false}
+  >
+    <button
+      className="ui active button currentPage"
+      onClick={[Function]}
+      role="button"
+    >
+      1
+    </button>
+  </Button>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="nx"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      &gt;
+    </button>
+  </Button>
+</div>
+`;
+
+exports[`Previous and Next Button previousPageIcon snapshot 1`] = `
+<div
+  className="ui buttons semantic-ui-react-button-pagination"
+>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    icon="chevron left"
+    inverted={false}
+    key="pr"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui icon disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      <Icon
+        as="i"
+        key="chevron left"
+        name="chevron left"
+      >
+        <i
+          aria-hidden="true"
+          className="chevron left icon"
+        />
+      </Icon>
+    </button>
+  </Button>
+  <Button
+    active={true}
+    as="button"
+    basic={false}
+    className="currentPage"
+    compact={false}
+    disabled={false}
+    inverted={false}
+    key="cr1"
+    negative={false}
+    positive={false}
+    primary={false}
+    secondary={false}
+  >
+    <button
+      className="ui active button currentPage"
+      onClick={[Function]}
+      role="button"
+    >
+      1
+    </button>
+  </Button>
+  <Button
+    as="button"
+    basic={false}
+    className="otherPage"
+    compact={false}
+    disabled={true}
+    inverted={false}
+    key="nx"
+    negative={false}
+    onClick={[Function]}
+    positive={false}
+    primary={false}
+    secondary={false}
+    tabIndex={null}
+  >
+    <button
+      className="ui disabled button otherPage"
+      disabled={true}
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      &gt;
+    </button>
+  </Button>
+</div>
+`;

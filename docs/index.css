@@ -1,0 +1,13 @@
+body {
+  background-color: #fafafa;
+}
+
+#root {
+  padding: 8px;
+}
+
+.inverted-block {
+  background-color: #333333;
+  border-radius: .28571429rem;
+  padding: 8px;
+}

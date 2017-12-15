@@ -1,0 +1,66 @@
+{
+  "name": "semantic-ui-react-button-pagination",
+  "description": "A pagination component for Semantic-UI-React using Button.",
+  "version": "0.0.1",
+  "author": "szmslab <szmslab@gmail.com> (https://github.com/szmslab)",
+  "bugs": {
+    "url": "https://github.com/szmslab/semantic-ui-react-button-pagination/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.0.3",
+    "babel-jest": "^21.2.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "coveralls": "^3.0.0",
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0",
+    "enzyme-to-json": "^3.3.0",
+    "eslint": "^4.13.1",
+    "eslint-plugin-react": "^7.5.1",
+    "jest": "^21.2.1",
+    "raf": "^3.4.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-test-renderer": "^16.2.0",
+    "rimraf": "^2.6.2",
+    "semantic-ui-react": "0.77.1"
+  },
+  "peerDependencies": {
+    "semantic-ui-react": ">=0.69.0 <1.0.0",
+    "react": "^15.5.0 || ^16.0.0",
+    "react-dom": "^15.5.0 || ^16.0.0"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "homepage": "https://github.com/szmslab/semantic-ui-react-button-pagination#readme",
+  "keywords": [
+    "pagination",
+    "semantic-ui",
+    "semantic-ui-react",
+    "react"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szmslab/semantic-ui-react-button-pagination.git"
+  },
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "clean": "rimraf lib",
+    "lint": "eslint src/**/*.js",
+    "jest": "jest",
+    "test": "jest && coveralls < ./coverage/lcov.info"
+  }
+}
