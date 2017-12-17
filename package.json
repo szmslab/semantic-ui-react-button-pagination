@@ -51,7 +51,6 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/szmslab/semantic-ui-react-button-pagination.git"
