@@ -16,6 +16,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 10 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -41,6 +42,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 10 snaps
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -63,6 +65,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 10 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -95,6 +98,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 11 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -120,6 +124,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 11 snaps
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -142,6 +147,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 11 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -164,6 +170,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 11 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -193,6 +200,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -218,6 +226,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -240,6 +249,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -262,6 +272,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -283,6 +294,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -307,6 +319,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -329,6 +342,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 60 snaps
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -358,6 +372,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -383,6 +398,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -405,6 +421,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -427,6 +444,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -448,6 +466,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -472,6 +491,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -494,6 +514,7 @@ exports[`Reduced Pagination (reduced=true) offset: 0, limit: 10, total: 1000 sna
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -523,6 +544,7 @@ exports[`Reduced Pagination (reduced=true) offset: 10, limit: 10, total: 11 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -545,6 +567,7 @@ exports[`Reduced Pagination (reduced=true) offset: 10, limit: 10, total: 11 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -567,6 +590,7 @@ exports[`Reduced Pagination (reduced=true) offset: 10, limit: 10, total: 11 snap
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -589,6 +613,7 @@ exports[`Reduced Pagination (reduced=true) offset: 10, limit: 10, total: 11 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -621,6 +646,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -643,6 +669,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -665,6 +692,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -687,6 +715,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -709,6 +738,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -731,6 +761,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -753,6 +784,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -775,6 +807,7 @@ exports[`Reduced Pagination (reduced=true) offset: 20, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -804,6 +837,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -826,6 +860,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -848,6 +883,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -870,6 +906,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -892,6 +929,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -914,6 +952,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -936,6 +975,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -958,6 +998,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -987,6 +1028,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1009,6 +1051,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1031,6 +1074,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1053,6 +1097,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1075,6 +1120,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1097,6 +1143,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1118,6 +1165,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1142,6 +1190,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1164,6 +1213,7 @@ exports[`Reduced Pagination (reduced=true) offset: 30, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1193,6 +1243,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1215,6 +1266,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1236,6 +1288,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1260,6 +1313,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1282,6 +1336,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1304,6 +1359,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1325,6 +1381,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1349,6 +1406,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1371,6 +1429,7 @@ exports[`Reduced Pagination (reduced=true) offset: 40, limit: 10, total: 1000 sn
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1400,6 +1459,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1422,6 +1482,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1443,6 +1504,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1467,6 +1529,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1489,6 +1552,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1511,6 +1575,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1533,6 +1598,7 @@ exports[`Reduced Pagination (reduced=true) offset: 50, limit: 10, total: 60 snap
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -1565,6 +1631,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1587,6 +1654,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1608,6 +1676,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1632,6 +1701,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1654,6 +1724,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1676,6 +1747,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1697,6 +1769,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1721,6 +1794,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1743,6 +1817,7 @@ exports[`Reduced Pagination (reduced=true) offset: 950, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1772,6 +1847,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1794,6 +1870,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1815,6 +1892,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1839,6 +1917,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1861,6 +1940,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1883,6 +1963,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1905,6 +1986,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1927,6 +2009,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1949,6 +2032,7 @@ exports[`Reduced Pagination (reduced=true) offset: 960, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -1978,6 +2062,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -2000,6 +2085,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -2021,6 +2107,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -2045,6 +2132,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -2067,6 +2155,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -2089,6 +2178,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -2111,6 +2201,7 @@ exports[`Reduced Pagination (reduced=true) offset: 990, limit: 10, total: 1000 s
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >

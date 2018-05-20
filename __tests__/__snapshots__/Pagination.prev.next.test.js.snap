@@ -16,6 +16,7 @@ exports[`Previous and Next Button nextPageChildren empty array snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -41,6 +42,7 @@ exports[`Previous and Next Button nextPageChildren empty array snapshot 1`] = `
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -63,6 +65,7 @@ exports[`Previous and Next Button nextPageChildren empty array snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -93,6 +96,7 @@ exports[`Previous and Next Button nextPageChildren text snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -118,6 +122,7 @@ exports[`Previous and Next Button nextPageChildren text snapshot 1`] = `
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -142,6 +147,7 @@ exports[`Previous and Next Button nextPageChildren text snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -174,6 +180,7 @@ exports[`Previous and Next Button nextPageIcon snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -199,6 +206,7 @@ exports[`Previous and Next Button nextPageIcon snapshot 1`] = `
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -222,6 +230,7 @@ exports[`Previous and Next Button nextPageIcon snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -263,6 +272,7 @@ exports[`Previous and Next Button previousPageChildren empty array snapshot 1`] 
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -286,6 +296,7 @@ exports[`Previous and Next Button previousPageChildren empty array snapshot 1`] 
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -308,6 +319,7 @@ exports[`Previous and Next Button previousPageChildren empty array snapshot 1`] 
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -342,6 +354,7 @@ exports[`Previous and Next Button previousPageChildren text snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -367,6 +380,7 @@ exports[`Previous and Next Button previousPageChildren text snapshot 1`] = `
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -389,6 +403,7 @@ exports[`Previous and Next Button previousPageChildren text snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -422,6 +437,7 @@ exports[`Previous and Next Button previousPageIcon snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >
@@ -456,6 +472,7 @@ exports[`Previous and Next Button previousPageIcon snapshot 1`] = `
     negative={false}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
   >
     <button
@@ -478,6 +495,7 @@ exports[`Previous and Next Button previousPageIcon snapshot 1`] = `
     onClick={[Function]}
     positive={false}
     primary={false}
+    role="button"
     secondary={false}
     tabIndex={null}
   >

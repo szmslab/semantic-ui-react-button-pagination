@@ -7,28 +7,28 @@
     "url": "https://github.com/szmslab/semantic-ui-react-button-pagination/issues"
   },
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.0.3",
-    "babel-jest": "^21.2.0",
-    "babel-preset-env": "^1.6.1",
+    "babel-eslint": "^8.2.3",
+    "babel-jest": "^22.4.4",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "coveralls": "^3.0.0",
-    "enzyme": "^3.2.0",
-    "enzyme-adapter-react-16": "^1.1.0",
-    "enzyme-to-json": "^3.3.0",
-    "eslint": "^4.13.1",
-    "eslint-plugin-react": "^7.5.1",
-    "jest": "^21.2.1",
+    "coveralls": "^3.0.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme-to-json": "^3.3.4",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.8.2",
+    "jest": "^22.4.4",
     "raf": "^3.4.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-test-renderer": "^16.2.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-test-renderer": "^16.3.2",
     "rimraf": "^2.6.2",
-    "semantic-ui-react": "0.77.1"
+    "semantic-ui-react": "0.80.0"
   },
   "peerDependencies": {
     "semantic-ui-react": ">=0.69.0 <1.0.0",
