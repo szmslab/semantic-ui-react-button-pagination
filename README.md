@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/szmslab/semantic-ui-react-button-pagination.svg?branch=master)](https://travis-ci.org/szmslab/semantic-ui-react-button-pagination)
 [![Coverage Status](https://coveralls.io/repos/github/szmslab/semantic-ui-react-button-pagination/badge.svg?branch=master)](https://coveralls.io/github/szmslab/semantic-ui-react-button-pagination?branch=master)
-[![npm version](https://img.shields.io/npm/v/semantic-ui-react-button-pagination.svg)](https://www.npmjs.org/package/semantic-ui-react-button-pagination)
+[![npm version](https://img.shields.io/npm/v/semantic-ui-react-button-pagination.svg)](https://www.npmjs.com/package/semantic-ui-react-button-pagination)
 
 A pagination component for [Semantic UI React](https://react.semantic-ui.com/) using Button.
 
@@ -25,7 +25,7 @@ npm install semantic-ui-react-button-pagination
 <head>
   <meta charset="UTF-8">
   <title>Example of semantic-ui-react-button-pagination</title>
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.min.css">
 </head>
 <body>
   <div id="app"></div>

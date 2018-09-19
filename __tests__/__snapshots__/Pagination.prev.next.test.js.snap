@@ -243,7 +243,6 @@ exports[`Previous and Next Button nextPageIcon snapshot 1`] = `
     >
       <Icon
         as="i"
-        key="chevron right"
         name="chevron right"
       >
         <i
@@ -450,7 +449,6 @@ exports[`Previous and Next Button previousPageIcon snapshot 1`] = `
     >
       <Icon
         as="i"
-        key="chevron left"
         name="chevron left"
       >
         <i
